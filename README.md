@@ -6,7 +6,7 @@ Currently not built for production.
 
 # Usage
 
- 1. Download the files and install the dependencies listed in the `package.json`
+ 1. Download or clone the files and install the dependencies listed in the `package.json`
  2. `cd` into directory where all files are located
  3. Run app using `npm start`.
  4. Open link created from `npm` and begin playing the game
