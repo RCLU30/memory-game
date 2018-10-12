@@ -18,14 +18,14 @@ Currently not built for production.
  - react-dom 16.5.2
  - react-scripts 2.0.4
 # Files
- - /src/App.js/App.css
+ - /src/App.js
 	 - Parent Component for MemoryGame
  - /src/MemoryGame.js
 	 - Main MemoryGame component
 	 - Parent to other components (Card and Navbar)
-- /src/Card.js/Card.css
+- /src/Card.js
 	- Component for rendering each individual card
-- /src/Navbar.js/Navbar.css
+- /src/Navbar.js
 	- Navbar component. Contains sub-heading and new game button
 - /src/Serviceworker.js
 	- React server component. Required if running server through`npm start`
