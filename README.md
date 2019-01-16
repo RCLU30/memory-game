@@ -1,6 +1,6 @@
 
 # Two Card Memory Game
-A simple two card color matching game built using React components. Application built using the node and create-react-app. Built this in the [cloud9.io](https://ide.c9.io) environment as part an exercise for the [Advanced WebDeveloper Bootcamp] (https://www.udemy.com/the-advanced-web-developer-bootcamp/) 
+A simple two card color matching game built using React components. Application built using the node and create-react-app. Built this in the [cloud9.io](https://ide.c9.io) environment as part an exercise for the [Advanced WebDeveloper Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) 
 
 # Link to app
 [click here](https://glacial-savannah-31644.herokuapp.com/)
