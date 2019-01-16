@@ -9,8 +9,8 @@ A simple two card color matching game built using React components. Application 
 1. Open the link to game above
 2. Click on any of the squares to reveal a color
 3. Click on a second square
-4a. If the first square's color matches the second square's color, the squares will remain displayed
-4b. If the first square's color does not match the second square's color, the squares will remain displayed for for 1,000ms, then go back to being hidden.
-5. Repeat until all squares are displayed, or until player clicks on "New Game" at the top right
+4. If the first square's color matches the second square's color, the squares will remain displayed
+5. If the first square's color does not match the second square's color, the squares will remain displayed for for 1,000ms, then go back to being hidden.
+6. Repeat until all squares are displayed, or until player clicks on "New Game" at the top right
 
 
